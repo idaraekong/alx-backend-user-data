@@ -1,5 +1,5 @@
 # 0x03. User authentication service
-
+#
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/4cb3c8c607afc1d1582d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230606%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230606T072903Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b8eb113c42936f2ad69137d962de1e333c5753ba590b6f4d308410567e46ca4f)
 
 In the industry, you should **not** implement your own authentication system and use a module or framework that doing it for you (like in Python-Flask: [Flask-User](https://intranet.alxswe.com/rltoken/9nVfotMI_1zpEzihMzBeTA "Flask-User")). Here, for the learning purpose, we will walk through each step of this mechanism to understand it by doing.
